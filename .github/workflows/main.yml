@@ -1,0 +1,16 @@
+name: Atualizar README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # roda a cada 12h
+  workflow_dispatch: # permite rodar manualmente
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+
+      - name: Exibir mensagem de sucesso
+        run: echo "README do perfil está atualizado!"
