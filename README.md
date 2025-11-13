@@ -31,6 +31,6 @@
 ---
 
 ## 📫 Contato
-📧 **Email:** tassiohenrique2005@gmail.com *(coloque o seu real aqui)*  
+📧 **Email:** tassiohenrique2005@gmail.com  
 🌍 **LinkedIn:** [https://www.linkedin.com/in/t%C3%A1ssio-henrique-521620355/](#)  
 🐙 **GitHub:** [github.com/Tassio25p](#)
