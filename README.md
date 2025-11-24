@@ -7,9 +7,9 @@
 ---
 
 ## 💡 Sobre mim
-- 📘 Cursando o **3º semestre** de ADS  
-- 🧩 Desenvolvendo projetos pessoais e acadêmicos com **PHP e MySQL**  
-- 💼 Buscando oportunidades para atuar como **desenvolvedor web full-stack**
+- 📘 Cursando o **4º semestre** de ADS  
+- 🧩 Desenvolvendo projetos pessoais e acadêmicos com **PHP e MySQL entre outros**  
+- 💼 Buscando oportunidades para atuar como **desenvolvedor web Back-End**
 
 ---
 
@@ -19,7 +19,7 @@
 |-------------|------------|------------|----------------|--------------|
 | 💻 PHP | ⚡ HTML | 🧠 Slim Framework | 🗄️ MySQL | 🧰 Git & GitHub |
 | 🌐 JavaScript | 🎨 CSS / Bootstrap | 🔒 Autenticação (MD5, Sessões) | 🧾 JSON | 🧪 XAMPP |
-| ⚛️ React | 🪶 Tailwind | 🧩 APIs REST | | ⚙️ Composer |
+| ⚛️ React |🧩 APIs REST | | ⚙️ Composer |
 
 ---
 
