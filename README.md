@@ -1,9 +1,6 @@
 # 👋 Olá, eu sou o Tássio Henrique!
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas — UniSalesiano**  
-💻 Desenvolvedor focado em **PHP, JavaScript e React**  
-🚀 Criando sistemas e APIs voltadas para controle financeiro e tarefas  
-
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas — UniSalesiano**
 ---
 
 ## 💡 Sobre mim
