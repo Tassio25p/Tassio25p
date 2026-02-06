@@ -16,7 +16,7 @@
 |-------------|------------|------------|----------------|--------------|
 | 💻 PHP | ⚡ HTML | 🧠 Slim Framework | 🗄️ MySQL | 🧰 Git & GitHub |
 | 🌐 JavaScript | 🎨 CSS / Bootstrap | 🔒 Autenticação (MD5, Sessões) | 🧾 JSON | 🧪 XAMPP |
-| 🧩 APIs REST | | ⚙️ Composer |
+|            |           |🧩 APIs REST | | ⚙️ Composer |
 
 ---
 
