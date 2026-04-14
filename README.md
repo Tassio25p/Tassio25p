@@ -4,7 +4,7 @@
 ---
 
 ## 💡 Sobre mim
-- 📘 Cursando o **4º semestre** de ADS  
+- 📘 Cursando o **5º semestre** de ADS  
 - 🧩 Desenvolvendo projetos pessoais e acadêmicos com **PHP e MySQL entre outros**  
 - 💼 Buscando oportunidades para atuar como **desenvolvedor web Back-End**
 
